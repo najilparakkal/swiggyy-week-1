@@ -1,0 +1,291 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.mainpage{
+    width: 100%;
+    height: 550px;
+    display: flex;
+}
+.delivary-page{
+    width: 60%;
+    background: white;
+    height: 100%; 
+}
+.icon-swiggy{
+    background: white;
+    width: 50%;
+    float: left;
+}
+.swiggy{
+    height: 180px;
+    padding-left: 80px;
+    float: left;
+}
+.login-butten{
+    float: left;
+    background: white;
+    border: none;
+    font-size: 20px;
+    margin-left: 130px;
+    width: 85px;
+    height: 42px;
+}
+.login-div{
+    float: left;
+    background: white;
+    width: 50%;
+    padding-bottom: 0px;
+    height: 101px;
+    padding-top: 79px;
+}
+.sign-up-butten{
+    float: left;
+    background: black;
+    border: none;
+    font-size: 15px;
+    color: white;
+    width: 85px;
+    height: 42px;
+}
+.hungry{
+    color: #282c3f;
+    padding-left: 80px;
+    font-size: 38px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.main-para{
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #282c3f;
+    padding-left: 80px;
+    font-size: 22px;
+}
+.swiggy-image{
+    width: 100%;
+    height: 550px;
+}
+.image-div{
+    width: 40%;
+    height: 550px;
+    background: rgb(255, 255, 255);
+}
+.location-form{
+    height: 50px;
+    padding-right: 190px;
+    padding-left: 30px;
+    border-color:orangered ;
+}
+.location-div{
+    padding-left: 80px;
+    background:white;
+    width: 69%;
+    height: 55px;
+    display: flex;
+    justify-content: start;
+}
+.food-butten{
+    width: 135px;
+    height: 56px;
+    font-size: 18px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color:white;
+    background: orangered;
+    border: orangered;
+}
+.popular{
+    color: #a9abb2;
+    font-size: 14px;
+    padding-left: 80px;
+    padding-top: 29px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.locations{
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #a9abb2;
+    font-size: 17px;
+    padding-left: 80px;
+}
+.second-page{
+    background:#2b1e16;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.first-img-div{
+    width: 20%;
+    background:#2b1e16;
+    height: 100%;
+}
+.first-img{
+    height: 180px;
+    padding-left: 70px;
+}
+.text{
+    font-size: 20px;
+    padding-left: 27px;
+    color: white;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.down-text{
+    font-size: 16px;
+    padding-left: 7px;
+    color: #e0cbc1;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.second-img-div{
+    width: 20%;
+    background: rgb(255, 243, 243);
+    height: 100%;
+}
+.second-img{
+    height: 180px;
+    padding-left: 70px;
+}
+.theird-img-div{
+    width: 20%;
+    background:#2b1e16;
+    height: 100%;
+}
+.theird-img{
+    height: 180px;
+    padding-left: 70px;
+}
+.thierd-page{
+    width: 100%;
+    height: 550px;
+    display: flex;
+}
+.second-page-text-div{
+    background: white;
+    width: 40%;
+}
+.second-page-text{
+    margin: 0;
+    padding-left: 127px;
+    padding-top: 150px;
+    font-size: 44px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif ;
+    
+}
+.second-page-p{
+    padding-left: 125px;
+    font-size: 21px;
+    color: #a9abb2 ;
+}
+.second-page-phone{
+    width: 60%;
+    background: white;
+}
+.secondpage-image-1{
+    height: 450px;
+    padding-left: 70px;
+    background: white;
+    padding-bottom: 100px;
+}
+.secondpage-image-2{
+    height: 450px;
+    width: 335px;
+}
+.google-play{
+    height: 50px;
+    padding-left: 143px;
+    padding-top: 66px;
+}
+.app-store{
+    height: 50px;
+}
+.forth-page{
+    width: 100%;
+    height: 430px;
+    background: black;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: #282c3f solid 1px;
+}
+.about{
+    padding-left: 0px;
+    padding-top: 22px;
+}
+.contact{
+    width: 23%;
+    background:black;
+    height: 100%;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif ;
+}
+.campany{
+    font-size: 17px;
+    padding-left: 62px;
+    margin-top: 26px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif ;
+    color: #a9abb2;
+}
+.tt{
+    font-size: 17px;
+    padding-left: 60px;
+    margin-top: 0px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: white;
+    font-weight: 300;
+}
+.second-appstore{
+    height: 65px;
+}
+.second-playstore{
+    height: 65px;
+    padding-top: 24px;
+}
+.last-img-div{
+    padding-top: 90px;
+}
+.fifth-page{
+    height: 100px;
+    width: 100%;
+   background: black;
+   border-bottom: #282c3f solid 1px;
+}
+.fifth-text{
+    margin: 0;
+    font-size: 19px;
+    padding-left: 120px;
+    padding-top: 19px;
+    color: white;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif ;
+}
+.fifth-tt{
+    float: left;
+    padding-left: 118px;
+    padding-top: 15px;
+    width: 50%;
+}
+.fifth-second-tt{
+    float: right;
+    padding-top: 15px;
+    padding-right: 120px;
+}
+.last-page{
+    display: flex;
+ 
+    background: black;
+    height: 100px;
+    width: 100%;
+}
+.last-img{
+    height: 46px;
+    padding-left: 111px;
+    padding-top: 18px;
+}
+.last-tt{
+    padding-left: 264px;
+    color: white;
+    font-size: 20px;
+    padding-top: 18px;
+}
+.icons{
+    padding-left: 330px;
+}
+.icon{
+    width: 24px;
+    padding-top: 38px;
+}
